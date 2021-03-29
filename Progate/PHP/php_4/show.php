@@ -55,7 +55,7 @@ $menuReviews = $menu->getReviews($reviews);
         <?php endforeach ?>
       </div>
     </div>
-    <a href="index.php">← メニュー一覧へ</a>
+    <a href="php_4_3.php">← メニュー一覧へ</a>
   </div>
 </body>
 </html>
