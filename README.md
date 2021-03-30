@@ -1,2 +1,5 @@
 # php-studing
-PHPの学習記録です。（主にProgate）
+PHPの学習記録です。
+## 学習したサイト等
+・Progate
+・Paiza
