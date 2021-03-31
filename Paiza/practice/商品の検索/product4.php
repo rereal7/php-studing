@@ -20,7 +20,6 @@ for ($i = 0; $i < $buyCount; $i++) {
 	$buyName = trim(fgets(STDIN));
 	$result = "";
 	for ($j = 0; $j < $soldCount; $j++) {
-		echo "$j=". $j . "\n";
 		if ($buyName === $soldNames[$j]) {
 			$result = $soldPrices[$j];
 			break;
